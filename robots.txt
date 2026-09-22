@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vzshoe.cn/sitemap.xml
